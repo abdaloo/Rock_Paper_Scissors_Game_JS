@@ -5,10 +5,3 @@ function getComputerChoice(){
 
 }
 
-function getHumanChoice(){
-
-}
-
-function playRound(){
-    
-}
